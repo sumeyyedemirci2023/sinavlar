@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\sinav3\sinav3\obj\Debug\sinav3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sinav3\sinav3\obj\Debug\sinav3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sinav3\sinav3\obj\Debug\sinav3.Form1.resources
+C:\Users\User\source\repos\sinav3\sinav3\obj\Debug\sinav3.Properties.Resources.resources
+C:\Users\User\source\repos\sinav3\sinav3\obj\Debug\sinav3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sinav3\sinav3\obj\Debug\sinav3.csproj.CoreCompileInputs.cache

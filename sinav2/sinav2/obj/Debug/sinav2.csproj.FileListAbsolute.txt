@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sinav2\sinav2\bin\Debug\sinav2.exe.config
+C:\Users\User\source\repos\sinav2\sinav2\bin\Debug\sinav2.exe
+C:\Users\User\source\repos\sinav2\sinav2\bin\Debug\sinav2.pdb
+C:\Users\User\source\repos\sinav2\sinav2\obj\Debug\sinav2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sinav2\sinav2\obj\Debug\sinav2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sinav2\sinav2\obj\Debug\sinav2.Form1.resources
+C:\Users\User\source\repos\sinav2\sinav2\obj\Debug\sinav2.Properties.Resources.resources
+C:\Users\User\source\repos\sinav2\sinav2\obj\Debug\sinav2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sinav2\sinav2\obj\Debug\sinav2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sinav2\sinav2\obj\Debug\sinav2.exe
+C:\Users\User\source\repos\sinav2\sinav2\obj\Debug\sinav2.pdb
